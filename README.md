@@ -29,7 +29,9 @@ Analyzed 90,189 Cookie Cats mobile game players to determine whether moving a pr
 
 ## 🔗 View Analysis
 
-Download the HTML file and open in your browser to see the full interactive report.
+**[📄 View Live Report →](https://alexandranlugo.github.io/cookie-cats-ab-test/cookie_cats_analysis.html)**
+
+Alternatively, download `cookie_cats_analysis.html` and open in your browser.
 
 ## 💡 Skills Demonstrated
 
